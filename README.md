@@ -84,27 +84,35 @@ Key Visualizations:
 
 Retail_Forecasting_Project
 ## Project Structure
-<p>Retail_Forecasting_Project
+## 📁 Project Structure
+
+```
+Retail_Forecasting_Project
 │
 ├── data
-│ ├── raw
-│ └── processed
+│   ├── raw
+│   │   └── train.csv
+│   └── processed
+│       └── cleaned_data.csv
 │
 ├── notebooks
-│ ├── 01_data_preprocessing.ipynb
-│ └── 02_model_training.ipynb
+│   ├── 01_data_preprocessing.ipynb
+│   └── 02_model_training.ipynb
 │
 ├── models
-│ └── sales_prediction_model.pkl
+│   └── sales_prediction_model.pkl
 │
 ├── dashboard
+│   └── retail_sales_dashboard_data.csv
 │
 ├── reports
-│ ├── Dashboard.pbix
-│ ├── Dashboard.png
-│ ├── Retail-Sales-Forecasting-and-Business-Analytics.pdf
-│ └── Retail-Sales-Forecasting-and-Business-Analytics.pptx
-</p>
+│   ├── Dashboard.pbix
+│   ├── Dashboard.png
+│   ├── Retail-Sales-Forecasting-and-Business-Analytics.pdf
+│   └── Retail-Sales-Forecasting-and-Business-Analytics.pptx
+│
+└── README.md
+```
 
 
 ---
