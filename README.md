@@ -83,6 +83,8 @@ Key Visualizations:
 
 
 Retail_Forecasting_Project
+## Project Structure
+<p>Retail_Forecasting_Project
 │
 ├── data
 │ ├── raw
@@ -102,6 +104,7 @@ Retail_Forecasting_Project
 │ ├── Dashboard.png
 │ ├── Retail-Sales-Forecasting-and-Business-Analytics.pdf
 │ └── Retail-Sales-Forecasting-and-Business-Analytics.pptx
+</p>
 
 
 ---
@@ -131,4 +134,11 @@ Possible enhancements:
 
 MCA  
 Bharati Vidyapeeth Institute of Management & Information Technology  
+Navi Mumbai
+---
+
+## Author
+
+Om Yadav  
+MCA – Bharati Vidyapeeth Institute of Management & Information Technology  
 Navi Mumbai
