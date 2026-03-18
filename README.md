@@ -1,67 +1,87 @@
-# Retail Sales Forecasting & Business Analytics Dashboard
+# 📊 Retail Sales Forecasting & Business Analytics
 
-## Project Overview
-
-This project analyzes retail sales data and builds a machine learning model to predict product sales. The project also includes a Power BI dashboard to visualize sales insights and support business decision making.
-
-The goal of this project is to demonstrate how data science and business analytics can help retailers understand product demand patterns and optimize sales strategies.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
-## Technologies Used
+## 📌 Project Overview
 
-Programming Language:
+This project analyzes retail sales data and builds machine learning models to predict product sales.  
+
+The project combines **Python-based machine learning** with an **interactive Power BI dashboard** to provide actionable insights for retail businesses.
+
+The objective is to demonstrate how **data science and business analytics** can help retailers understand demand patterns and improve decision-making.
+
+---
+
+## ⚙️ Technology Stack
+
+**Programming Language**
+
 - Python
 
-Libraries:
+**Libraries**
+
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 
-Tools:
-- Jupyter Notebook (Anaconda)
+**Tools**
+
+- Jupyter Notebook
 - Power BI
+- Git & GitHub
 
 ---
 
-## Machine Learning Models
+## 🤖 Machine Learning Models
 
 Two regression models were implemented:
 
-1. Linear Regression  
-2. Random Forest Regressor  
+1. **Linear Regression**
+2. **Random Forest Regressor**
 
 Dataset split:
-- 80% Training
-- 20% Testing
 
-Model evaluation metrics used:
+
+80% Training
+20% Testing
+
+
+Evaluation Metrics:
 
 - RMSE (Root Mean Squared Error)
 - R² Score
 
 ---
 
-## Dataset Information
+## 📊 Power BI Dashboard
 
-Dataset: BigMart Retail Dataset
+The project includes an interactive **Power BI dashboard** for business analysis.
 
-Total Records: **8523**
+Key Visualizations:
 
-Important features:
-
-- Item_Type
-- Item_MRP
-- Item_Visibility
-- Outlet_Type
-- Outlet_Location_Type
-
-Target variable:
+- Sales by Item Type
+- Sales by Outlet Type
+- Sales by City Tier
+- Store Age vs Sales
+- Price vs Sales Relationship
 
 ---
 
-## Project Structure
+## 📷 Dashboard Preview
+
+![Dashboard Preview](reports/Dashboard.png)
+
+---
+
+## 📂 Project Structure
+
+
 Retail_Forecasting_Project
 │
 ├── data
@@ -86,31 +106,29 @@ Retail_Forecasting_Project
 
 ---
 
-## Dashboard Insights
-
-Key insights obtained from the Power BI dashboard:
+## 📈 Key Insights
 
 - Fruits and Vegetables generate the highest sales
-- Tier 3 cities produce the highest revenue
-- Higher product price (MRP) is strongly correlated with higher sales
-- Supermarket Type 1 contributes the largest share of sales
+- Tier-3 cities produce the highest revenue
+- Higher product prices are correlated with higher sales
+- Supermarket Type 1 contributes the largest share of revenue
 
 ---
 
-## Dashboard Preview
+## 🚀 Future Improvements
 
-![Dashboard](reports/Dashboard.png)
+Possible enhancements:
 
----
-
-## Conclusion
-
-This project demonstrates how machine learning and data visualization techniques can be used to analyze retail sales patterns and support business decision making. Combining predictive models with interactive dashboards helps organizations gain actionable insights from their data.
+- Implement advanced models such as **XGBoost**
+- Add **time series forecasting**
+- Deploy model using **Streamlit dashboard**
 
 ---
 
-## Author
+## 👨‍💻 Author
 
-Om Yadav  
-MCA – Bharati Vidyapeeth Institute of Management & Information Technology  
+**Om Yadav**
+
+MCA  
+Bharati Vidyapeeth Institute of Management & Information Technology  
 Navi Mumbai
