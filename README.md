@@ -139,14 +139,3 @@ Possible enhancements:
 ## 👨‍💻 Author
 
 **Om Yadav**
-
-MCA  
-Bharati Vidyapeeth Institute of Management & Information Technology  
-Navi Mumbai
----
-
-## Author
-
-Om Yadav  
-MCA – Bharati Vidyapeeth Institute of Management & Information Technology  
-Navi Mumbai
